@@ -16,7 +16,7 @@ Mongodb
 mongodb Compass
 ```
 
-## Installation
+### Installation
 
 clone repository to a new folder. Open window command in the folder and run these commands: 
 
